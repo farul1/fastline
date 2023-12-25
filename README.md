@@ -66,8 +66,7 @@ php artisan serve
 
 ## Author
 
--   Facebook : <a href="https://web.facebook.com/adhiariyadi.me/"> Adhi Ariyadi</a>
--   LinkedIn : <a href="https://www.linkedin.com/in/adhiariyadi/"> Adhi Ariyadi</a>
+
 
 ## Contributing
 
@@ -76,5 +75,5 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## License
 
--   Copyright © 2020 Adhi Ariyadi.
+-   Copyright © 2023 Farul.
 -   **Ticket is open-sourced software licensed under the MIT license.**
